@@ -1,2 +1,2 @@
-# StaidChannel708.github.io
+# StaidChannel708.github.io/home
 website.
